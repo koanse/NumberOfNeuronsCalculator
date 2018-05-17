@@ -1,0 +1,8 @@
+bin\Debug\NComb.exe
+bin\Debug\NComb.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NComb.Properties.Resources.resources
+obj\Debug\NComb.csproj.GenerateResource.Cache
+obj\Debug\NComb.exe
+obj\Debug\NComb.pdb
+obj\Debug\NComb.MainForm.resources
